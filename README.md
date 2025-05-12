@@ -1,4 +1,8 @@
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tong+Thach!;" />
+</h1>
+
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Thach Tong. I am a Full-Stack Software Engineer passionate about building modern web applications.<br>
 
@@ -41,6 +45,7 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 
 <br>
 <br>
+<h2 align="center">📌 Pinned Projects</h2>
 <a href="https://github.com/thachtaro2210/MyBrain/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=MyBrain&theme=gruvbox" />
 </a>
