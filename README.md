@@ -15,10 +15,6 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-
-
-
-
 <h2 align="center">⚒️ Tech Stack and Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,7 +40,7 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 
 
 <br>
-
+<br>
 <a href="https://github.com/thachtaro2210/MyBrain/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=MyBrain&theme=gruvbox" />
 </a>
@@ -55,3 +51,7 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 <a href="https://github.com/thachtaro2210/WebTech/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=WebTech&theme=synthwave" />
 </a>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
