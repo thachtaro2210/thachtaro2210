@@ -15,7 +15,7 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-![Thach's github stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 
 
 
@@ -32,6 +32,17 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 ## My Favourite Language:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align=center>
+  <a href="#" title="thachtaro2210">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="thachtaro2210">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thachtaro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+
 
 
 
