@@ -11,6 +11,9 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/t%E1%BB%91ng-th%E1%BA%A1ch-425989364/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
+<p align="center">
+  <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
+</p>
 
 ![Thach's github stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
