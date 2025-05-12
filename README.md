@@ -7,12 +7,12 @@
 My name is Thach Tong. I am a Full-Stack Software Engineer passionate about building modern web applications.<br>
 
 ### 👨‍💻 About Me
-<div align="center">
-- 💡 I'm a full-stack engineer who loves modern web development and solving real-world problems.
+
+-💡 I'm a full-stack engineer who loves modern web development and solving real-world problems.
 - 🔭 Currently working on: `AI-integrated web apps`
 - 🌱 Learning more about: `DevOps`, `AI`, and `Design Systems`
 - ⚡ Fun fact: I can debug faster with music 🎧
-</div>
+
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/t%E1%BB%91ng-th%E1%BA%A1ch-425989364/) 
