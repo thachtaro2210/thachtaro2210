@@ -13,10 +13,10 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 
 ![Thach's github stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-## Tech Stack:
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="center">⚒️ Tech Stack and Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
