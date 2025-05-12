@@ -29,9 +29,6 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
   <br/><br/><br/>
 <hr/>
 <br>
-## My Favourite Language:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
@@ -46,7 +43,7 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 
 
 
-<hr>
+<br>
 
 <a href="https://github.com/thachtaro2210/MyBrain/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=MyBrain&theme=gruvbox" />
