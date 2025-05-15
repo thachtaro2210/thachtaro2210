@@ -7,7 +7,7 @@
 Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting modern, user-focused web applications.
 
 ## 👨‍💻 About Me
-![Illustration](https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png)
+<img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
 - 💡 I specialize in building scalable web apps using **React**, **Node.js**, **Spring Boot**, and **MariaDB**, with a focus on clean code and user experience.
 - 🔭 Currently working on: Building AI-driven dashboards with **Next.js** and **TensorFlow**.
