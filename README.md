@@ -5,6 +5,7 @@
 
 # Welcome to My Page! 👋
 Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting modern, user-focused web applications.
+![](https://komarev.com/ghpvc/?username=thachtaro2210)
 
 ## 👨‍💻 About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
