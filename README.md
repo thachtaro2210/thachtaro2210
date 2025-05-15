@@ -25,8 +25,8 @@ My name is Thach Tong. I am a Full-Stack Software Engineer passionate about buil
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents,nestjs,java" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+    <img src="https://skillicons.dev/icons?i=react,angular,next,javascript,typescript,redux,nestjs,java" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,docker,sql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
 </div>
   <br/><br/><br/>
 <hr/>
