@@ -3,15 +3,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tong+Thach!;" />
 </h1>
 
-### WELCOME TO MY PAGE 👋👋👋
-My name is Thach Tong. I am a Full-Stack Software Engineer passionate about building modern web applications.<br>
+# Welcome to My Page! 👋
+Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting modern, user-focused web applications.
 
-### 👨‍💻 About Me <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right"> 
+## 👨‍💻 About Me
+![Illustration](https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png)
 
--💡 I'm a full-stack engineer who loves modern web development and solving real-world problems.
-- 🔭 Currently working on: `AI-integrated web apps`
-- 🌱 Learning more about: `DevOps`, `AI`, and `Design Systems`
-- ⚡ Fun fact: I can debug faster with music 🎧
+- 💡 I specialize in building scalable web apps using **React**, **Node.js**, **Spring Boot**, and **MariaDB**, with a focus on clean code and user experience.
+- 🔭 Currently working on: Building AI-driven dashboards with **Next.js** and **TensorFlow**.
+- 🌱 Learning more about: **Kubernetes** for DevOps and **Figma** for Design Systems.
+- ⚡ Fun fact: I once debugged a tricky API issue while jamming to 80s rock 🎸.
+- 📫 Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
+
 
 ## 📫 How to reach me: 
 
