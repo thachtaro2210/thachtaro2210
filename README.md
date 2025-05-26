@@ -32,9 +32,9 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,javascript,typescript,redux,nestjs,java" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,docker,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
 </div>
-  <br/><br/><br/>
-<hr/>
-<br>
+  <br/><br/>
+
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center"><a href="https://github.com/thachtaro2210" title="thachtaro2210">
