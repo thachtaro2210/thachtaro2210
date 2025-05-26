@@ -39,8 +39,9 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 <br>
 <div align=center>
  <a href="#" title="thachtaro2210">
- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<!--  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
 <!--      <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&count_private=true&cache_seconds=1800" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&count_private=true&show_pr_count=true&cache_seconds=1800" />
 
 </a>
 </div>
