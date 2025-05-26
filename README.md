@@ -40,10 +40,11 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 <div align=center>
 <a href="https://github.com/thachtaro2210" title="thachtaro2210">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true&cache_seconds=30" 
+    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true&cache_seconds=30&theme=dark" 
     alt="GitHub stats for thachtaro2210" 
   />
 </a>
+
 
 </div>
 <br>
