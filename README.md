@@ -38,12 +38,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-<div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true&theme=github_dark" 
-    align="center" 
-  />
-</div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
