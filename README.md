@@ -39,11 +39,9 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 <br>
 <div align=center>
  <a href="#" title="thachtaro2210">
-  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-     <a href="#" title="thachtaro2210">
  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-  </a>
+</a>
+  
 </div>
 
 
