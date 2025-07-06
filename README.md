@@ -19,7 +19,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/t%E1%BB%91ng-th%E1%BA%A1ch-425989364/) 
+[LeetCode](https://leetcode.com/u/thachtaro/) ![LeetCode](https://img.icons8.com/color/16/000000/leetcode.png)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 <p align="center">
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
