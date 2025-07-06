@@ -16,7 +16,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 - ⚡ Fun fact: I once debugged a tricky API issue while jamming to 80s rock 🎸.
 - 📫 Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?prussian)
+![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 📫 How to reach me: 
 
 [LeetCode](https://leetcode.com/u/thachtaro/)
