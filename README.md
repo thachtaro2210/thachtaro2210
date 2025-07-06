@@ -22,7 +22,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 [LeetCode](https://leetcode.com/u/thachtaro/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 <p align="center">
-  <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
+  <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/d370fc11-e9d4-44f9-bf7d-e84f1bab3dee.gif" alt="giphy" />
 </p>
 
 <h2 align="center">⚒️ Tech Stack and Languages-Frameworks-Tools ⚒️</h2>
