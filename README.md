@@ -10,10 +10,10 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 ## 👨‍💻 About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
-- 💡 I specialize in building scalable web apps using **React**, **Node.js**, **Spring Boot**, and **MariaDB**, with a focus on clean code and user experience.
-- 🔭 Currently working on: Building AI-driven dashboards with **Next.js** and **TensorFlow**.
-- 🌱 Learning more about: **Kubernetes** for DevOps and **Figma** for Design Systems.
-- ⚡ Fun fact: I once debugged a tricky API issue while jamming to 80s rock 🎸.
+- 💡 I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, **Node.js**, and **MariaDB**, with a focus on clean architecture and performance.
+- 🔭 Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
+- 🌱 Exploring: **DevOps** with **Docker** and **Microservices** design.
+- ⚡ Fun fact: I once fixed a complex Spring Boot bug while listening to chill music.
 - 📫 Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
