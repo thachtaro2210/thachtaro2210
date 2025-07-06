@@ -18,7 +18,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 📫 How to reach me: 
-
+![Kurapika](https://media.tenor.com/images/1339KB/498x224)
 [LeetCode](https://leetcode.com/u/thachtaro/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 <p align="center">
