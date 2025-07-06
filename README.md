@@ -4,7 +4,7 @@
 </h1>
 
 # Welcome to My Page! 👋
-Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting modern, user-focused web applications.
+Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
 
 
 ## 👨‍💻 About Me
