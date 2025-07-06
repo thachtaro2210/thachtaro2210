@@ -10,7 +10,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 ## 👨‍💻 About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
-- 💡 I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, **Node.js**, and **MariaDB**, with a focus on clean architecture and performance.
+- 💡 I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, **Node.js**, and **MongoDB**, with a focus on clean architecture and performance.
 - 🔭 Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
 - 🌱 Exploring: **DevOps** with **Docker** and **Microservices** design.
 - ⚡ Fun fact: I once fixed a complex Spring Boot bug while listening to chill music.
