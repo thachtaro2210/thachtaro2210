@@ -28,7 +28,7 @@ Hi, I'm Thach Tong, a Full-Stack Software Engineer passionate about crafting mod
 <h2 align="center">⚒️ Tech Stack and Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,express,firebase,mongodb,spring" /><br>
     <img src="https://skillicons.dev/icons?i=react,angular,nextjs,javascript,typescript,redux,nestjs,java" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,docker,html,css,sass,tailwind,vscode,figma,git" />
 </div>
