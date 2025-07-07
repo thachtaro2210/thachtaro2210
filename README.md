@@ -21,6 +21,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
 [LeetCode](https://leetcode.com/u/thachtaro/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
+
 [Mail](mailto:thatchjeager@gmail.com)
 <p align="center">
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/d370fc11-e9d4-44f9-bf7d-e84f1bab3dee.gif" alt="giphy" />
