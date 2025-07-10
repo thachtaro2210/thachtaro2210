@@ -52,17 +52,17 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
 </div>
 <br>
-<h2 align="center">📌 Pinned Projects</h2>
+<!-- <h2 align="center">📌 Pinned Projects</h2>
 <a href="https://github.com/thachtaro2210/MyBrain/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=MyBrain&theme=gruvbox" />
 </a>
 <a href="https://github.com/thachtaro2210/MovieWeb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=MovieWeb&theme=dracula" />
 </a>
-
+<!--
 <a href="https://github.com/thachtaro2210/WebTech/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=WebTech&theme=synthwave" />
-</a>
+</a> -->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
