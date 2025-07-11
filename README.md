@@ -27,266 +27,129 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<h2 align="center">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</h2>
+## ⚡ Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<style>
-  table.techstack-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: auto;
-  }
-
-  table.techstack-table td {
-    width: 140px;
-    text-align: center;
-    vertical-align: middle;
-    padding: 10px;
-  }
-
-  table.techstack-table td div {
-    background-color: transparent;
-    border: 1px solid white;
-    border-radius: 12px;
-    padding: 10px 15px;
-    font-size: 16px;
-    transition: transform 0.2s ease, background-color 0.2s ease;
-  }
-
-  table.techstack-table td div:hover {
-    transform: scale(1.05);
-    background-color: rgba(255, 255, 255, 0.05);
-  }
-
-  table.techstack-table img {
-    width: 65px;
-    height: 65px;
-    object-fit: contain;
-    margin-bottom: 6px;
-  }
-
-  table.techstack-table td div p {
-    margin: 0;
-    padding: 0;
-    font-weight: bold;
-    color: white;
-  }
-
-  body {
-    background-color: #121212;
-    color: white;
-    font-family: 'Segoe UI', sans-serif;
-  }
-</style>
-
-<!-- Backend Section -->
-<h3>🛠️ Backend</h3>
-<table class="techstack-table">
-  <tr>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" />
-        <p>Java</p>
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/html5.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">HTML5</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="NodeJS" />
-        <p>NodeJS</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/css3.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">CSS3</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://nestjs.com/img/logo.svg" alt="NestJS" style="width:65px;height:65px;" />
-        <p>NestJS</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Javascript</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://spring.io/images/spring-logo-2020.svg" alt="Spring" style="width:65px;height:65px;" />
-        <p>Spring</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Typescript</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" style="width:65px;height:65px;" />
-        <p>Firebase</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/nodejs.svg" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NodeJS</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="./TechStack/tailwind.svg" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">TailwindCSS</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">React</p>
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" />
-        <p>MongoDB</p>
+  <tr style="width: 100%;">
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/express.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">ExpressJS</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" />
-        <p>MySQL</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/nestjs.svg" alt="NestJs Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NestJS</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/socket-io.png" alt="Socket.io" />
-        <p>Socket.io</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://kafka.apache.org/images/logo.svg" alt="Apache Kafka" style="width:65px;height:65px;" />
-        <p>Apache Kafka</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">MySQL</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://www.twilio.com/marketing/bundles/marketing-2020/img/icons/logo-twilio-red.svg" alt="Twilio" style="width:65px;height:65px;" />
-        <p>Twilio</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 3px 10px; font-size: 16px;">
+        <img src="/TechStack/mongodb.svg" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
-  </tr>
-</table>
-
-<!-- Frontend Section -->
-<h3>💻 Frontend</h3>
-<table class="techstack-table">
-  <tr>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" />
-        <p>React</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/redis.svg" alt="Redis Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Redis</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Native" />
-        <p>React Native</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" style="width:65px;height:65px;" />
-        <p>Angular</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="Next.js" style="width:65px;height:65px;" />
-        <p>Next.js</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" />
-        <p>JavaScript</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">RESTful API</p>
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" />
-        <p>TypeScript</p>
+  
+  <tr style="width: 100%;">
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" style="width: 90px; height: 90px;" />
+        <p style="padding: 0; margin: 0;">Docker</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" />
-        <p>Redux</p>
+     <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/dockerswarmHD-removebg-preview.png" alt="Dockerswarm Icon" style="width: 90px; height: 90px;" />
+        <p style="padding: 0; margin: 0;">Docker Swarm</p>
       </div>
     </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
-        <p>HTML5</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
-        <p>CSS3</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" />
-        <p>Bootstrap</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <img src="https://mui.com/static/logo.png" alt="MUI" style="width:65px;height:65px;" />
-        <p>MUI</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.d4d6f50a.svg" alt="TailwindCSS" style="width:65px;height:65px;" />
-        <p>TailwindCSS</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" style="width:65px;height:65px;" />
-        <p>SASS</p>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">AWS</p>
       </div>
     </td>
   </tr>
 </table>
-
-<!-- Design & Tools Section -->
-<h3>🎨 Design & Tools</h3>
-<table class="techstack-table">
-  <tr>
-    <td>
-      <div>
-        <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" style="width:65px;height:65px;" />
-        <p>Figma</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://images.ctfassets.net/ooa29xqb8tix/5aUwwb3V26QKU2E2aK0UCC/0c829f0f6d9675d91f785af6c9d4b3c4/Postman_Full_Color.png" alt="Postman" style="width:65px;height:65px;" />
-        <p>Postman</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/npm.png" alt="NPM" />
-        <p>NPM</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" />
-        <p>Git</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" alt="GitHub" />
-        <p>GitHub</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode" style="width:65px;height:65px;" />
-        <p>VSCode</p>
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" style="width:65px;height:65px;" />
-        <p>Docker</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
