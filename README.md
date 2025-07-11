@@ -29,10 +29,12 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
 <h2 align="center">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</h2>
 
----
+
+
 
 ### 🛠️ Backend
 <p align="center">
+    
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,10 +48,12 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 </p>
 
----
+
+
 
 ### 💻 Frontend
 <p align="center">
+    
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -65,10 +69,12 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   ![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
 </p>
 
----
+
+
 
 ### 🎨 Design & Tools
 <p align="center">
+    
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
