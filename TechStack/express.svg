@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="728" viewBox="0 0 512 149">
+    <path d="M3.332 115.629V58.648h71.144v-3.333H3.332V3.332h75.642V0H0v118.961h79.64v-3.332H3.333zm140.455-82.307l-29.49 38.821-28.825-38.82H81.14l31.157 41.32L78.14 118.96h3.999l32.156-41.82 32.323 41.82h4.165l-34.322-44.319 31.323-41.32h-3.998zm16.994 114.963V94.97h.333c2 7.775 5.943 14.023 11.83 18.744 5.887 4.72 13.384 7.081 22.492 7.081 5.887 0 11.108-1.194 15.662-3.582s8.358-5.637 11.413-9.747c3.054-4.11 5.387-8.886 6.998-14.329 1.61-5.442 2.416-11.163 2.416-17.16 0-6.443-.834-12.386-2.5-17.828-1.666-5.443-4.082-10.... (rest of your SVG path data) ..." fill="#222">
+        <animate attributeName="fill" values="#222;#4CAF50;#222" dur="2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="scale" from="1" to="1.1" dur="0.5s" begin="mouseover" repeatCount="1" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="1" to="1" dur="0.5s" begin="mouseout" repeatCount="1" fill="freeze"/>
+    </path>
+</svg>
