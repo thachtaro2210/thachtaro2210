@@ -34,6 +34,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Java</p>
       </div>
     </td>
@@ -95,6 +96,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">RESTful API</p>
       </div>
     </td>
@@ -150,6 +152,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
