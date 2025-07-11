@@ -47,7 +47,47 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
   ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 </p>
-
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" />
+    </td>
+  </tr>
+</table>
 
 
 
