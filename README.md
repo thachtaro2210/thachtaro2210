@@ -48,6 +48,18 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
         <p style="padding: 0; margin: 0;">HTML5</p>
       </div>
     </td>
+      <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/springboot.png" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">SPRINGBOOTS</p>
+      </div>
+    </td>
+         <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/nextjs-icon.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NextJS</p>
+      </div>
+    </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="./TechStack/css3.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
