@@ -51,7 +51,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
       <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="./TechStack/spring.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Spring Boot</p>
+        <p style="padding: 0; margin: 0;">SpringBoot</p>
       </div>
     </td>
          <td align="center" width="140">
