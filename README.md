@@ -29,31 +29,91 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
 <h2 align="center">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</h2>
 
-### 🛠️ Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <table style="width: 100%;">
   <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Java</p>
+        <img src="./TechStack/html5.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">HTML5</p>
+      </div>
+    </td>
+      <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/springboot.png" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">SPRINGBOOTS</p>
+      </div>
+    </td>
+         <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./TechStack/nextjs-icon.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NextJS</p>
       </div>
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS Icon" style="width: 65px; height: 65px;" />
+        <img src="./TechStack/css3.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">CSS3</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Javascript</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Typescript</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/nodejs.svg" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">NodeJS</p>
       </div>
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://cdn.simpleicons.org/express/000000" alt="Express Icon" style="width: 65px; height: 65px;" />
+      <img src="./TechStack/tailwind.svg" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">TailwindCSS</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">React</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/express.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">ExpressJS</p>
       </div>
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJs Icon" style="width: 65px; height: 65px;" />
+        <img src="/TechStack/nestjs.svg" alt="NestJs Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">NestJS</p>
+      </div>
+    </td>
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
     <td align="center" width="140">
@@ -63,139 +123,36 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
       </div>
     </td>
     <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+      <div style="background-color: transparent; border: 1px solid white; padding: 3px 10px; font-size: 16px;">
+        <img src="/TechStack/mongodb.svg" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis Icon" style="width: 65px; height: 65px;" />
+        <img src="/TechStack/redis.svg" alt="Redis Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Redis</p>
       </div>
     </td>
-  </tr>
-  <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/socketio-icon.svg" alt="Socket.io Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Socket.io</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/apachekafka-icon.svg" alt="Apache Kafka Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Apache Kafka</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/twilio-icon.svg" alt="Twilio Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Twilio</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API Icon" style="width: 65px; height: 65px;" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">RESTful API</p>
       </div>
     </td>
   </tr>
-</table>
-
-### 💻 Frontend
-<table style="width: 100%;">
+  
   <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">HTML5</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">CSS3</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">JavaScript</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">TypeScript</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">TailwindCSS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React Native</p>
-      </div>
-    </td>
-  </tr>
-  <tr style="width: 100%;">
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Redux</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### 🎨 Design & Tools
-<table style="width: 100%;">
-  <tr style="width: 100%;">
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Figma</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Postman</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="NPM Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NPM</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Git</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">GitHub</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" style="width: 65px; height: 65px;" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" style="width: 90px; height: 90px;" />
         <p style="padding: 0; margin: 0;">Docker</p>
+      </div>
+    </td>
+     <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/TechStack/dockerswarmHD-removebg-preview.png" alt="Dockerswarm Icon" style="width: 90px; height: 90px;" />
+        <p style="padding: 0; margin: 0;">Docker Swarm</p>
       </div>
     </td>
     <td align="center" width="140">
