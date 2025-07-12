@@ -27,15 +27,15 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<div style="display: flex; align-items: stretch;">
+<div style="display: flex;">
 
   <!-- LED trái -->
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-         style="height: 100%; width: 10px; transform: rotate(90deg); transform-origin: top left;" />
+  <div style="display: flex; align-items: stretch;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+         style="height: 600px; width: 10px; transform: rotate(90deg); transform-origin: top left;" />
   </div>
 
-  <!-- Nội dung chính (có LED trên và dưới) -->
+  <!-- Nội dung chính -->
   <div style="flex-grow: 1;">
     <!-- LED trên -->
     <p align="center">
@@ -45,21 +45,20 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
     <div align="center" style="font-size: 30px !important; font-weight: bold;">
       ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
     </div>
-    <!-- Nội dung tech stack bạn đã có -->
+    <!-- Chỗ này dán phần tech stack table của bạn vào -->
     <!-- LED dưới -->
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
     </p>
-
   </div>
-
   <!-- LED phải -->
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-         style="height: 100%; width: 10px; transform: rotate(270deg); transform-origin: top right;" />
+  <div style="display: flex; align-items: stretch;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+         style="height: 600px; width: 10px; transform: rotate(270deg); transform-origin: top right;" />
   </div>
 
 </div>
+
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
