@@ -30,30 +30,32 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 <div style="display: flex; justify-content: center; align-items: stretch;">
 
   <!-- LED trái -->
-  <div style="writing-mode: vertical-lr; transform: rotate(180deg);">
+  <div style="writing-mode: vertical-lr; transform: rotate(180deg); display: flex; align-items: stretch;">
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-         style="height: 600px; width: 8px;" />
+         style="height: auto; width: 8px;" />
   </div>
 
   <!-- Nội dung chính -->
-  <div style="width: 100%;">
+  <div style="padding: 0 20px;">
+    <!-- Đường LED ngang trên -->
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
     </p>
-    <div align="center" style="font-size: 30px !important; font-weight: bold;">
+    <!-- Tiêu đề -->
+    <div align="center" style="font-size: 30px; font-weight: bold;">
       ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
     </div>
-    <!-- Dán nội dung stack/badge ở đây -->
+    <!-- Đường LED ngang dưới -->
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
     </p>
-    
+
   </div>
 
   <!-- LED phải -->
-  <div style="writing-mode: vertical-lr;">
+  <div style="writing-mode: vertical-lr; display: flex; align-items: stretch;">
     <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-         style="height: 600px; width: 8px;" />
+         style="height: auto; width: 8px;" />
   </div>
 
 </div>
