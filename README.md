@@ -27,166 +27,24 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<div align="center" style="font-size: 30px !important; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
+<div style="border-left: 5px solid #00ffea; border-right: 5px solid #00ffea; padding: 0 10px;">
 
+  <!-- LED TOP -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  </p>
 
+  <!-- Title -->
+  <div align="center" style="font-size: 30px !important; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
 
+  <!-- Các badge và bảng icon bạn dán ở đây -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+  <!-- LED BOTTOM -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  </p>
 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-
-
-
-<table style="width: 100%;">
-  <tr style="width: 100%;">
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./TechStack/html5.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">HTML5</p>
-      </div>
-    </td>
-      <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./TechStack/spring.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">SpringBoot</p>
-      </div>
-    </td>
-         <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./TechStack/nextjs-icon.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NextJS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="./TechStack/css3.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">CSS3</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Javascript</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Typescript</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/nodejs.svg" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NodeJS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./TechStack/tailwind.svg" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">TailwindCSS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React</p>
-      </div>
-    </td>
-  </tr>
-  <tr style="width: 100%;">
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/express.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">ExpressJS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/nestjs.svg" alt="NestJs Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NestJS</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Redux</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">MySQL</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 3px 10px; font-size: 16px;">
-        <img src="/TechStack/mongodb.svg" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">MongoDB</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/redis.svg" alt="Redis Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Redis</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">RESTful API</p>
-      </div>
-    </td>
-  </tr>
-  
-  <tr style="width: 100%;">
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" style="width: 90px; height: 90px;" />
-        <p style="padding: 0; margin: 0;">Docker</p>
-      </div>
-    </td>
-     <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/dockerswarmHD-removebg-preview.png" alt="Dockerswarm Icon" style="width: 90px; height: 90px;" />
-        <p style="padding: 0; margin: 0;">Docker Swarm</p>
-      </div>
-    </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">AWS</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+</div>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
