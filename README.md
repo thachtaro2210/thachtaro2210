@@ -27,7 +27,7 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<div align="center" style="font-size: 28px; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
+<div align="center" style="font-size: 68px; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
 
 
 
