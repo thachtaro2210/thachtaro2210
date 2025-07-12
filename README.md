@@ -27,30 +27,25 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<div style="position: relative; border: none; padding: 0; margin: 0;">
+<div style="position: relative; display: inline-block; width: 100%;">
 
-  <!-- LED trái -->
+  <!-- LED bên trái -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-       style="position: absolute; top: 0; bottom: 0; left: 0; width: 8px; height: 100%; transform: rotate(90deg); transform-origin: top left;" />
+       style="position: absolute; top: 0; left: 0; height: 100%; width: 8px; transform: rotate(90deg); transform-origin: top left; z-index: 1;" />
 
-  <!-- LED phải -->
+  <!-- LED bên phải -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-       style="position: absolute; top: 0; bottom: 0; right: 0; width: 8px; height: 100%; transform: rotate(270deg); transform-origin: top right;" />
+       style="position: absolute; top: 0; right: 0; height: 100%; width: 8px; transform: rotate(270deg); transform-origin: top right; z-index: 1;" />
 
-  <!-- LED trên -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-  </p>
+  <!-- Nội dung giữa -->
+  <div style="padding: 0 20px;">
+    <!-- Tiêu đề -->
+    <div align="center" style="font-size: 30px; font-weight: bold;">
+      ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
+    </div>
+    <!-- Dán bảng stack, badge, icon ở đây -->
 
-  <!-- Nội dung chính -->
-  <div align="center" style="font-size: 30px !important; font-weight: bold;">
-    ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
   </div>
-
-  <!-- LED dưới -->
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-  </p>
 
 </div>
 
