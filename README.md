@@ -27,27 +27,37 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
   <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
 </p>
 
-<div style="position: relative; display: inline-block; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: stretch;">
 
-  <!-- LED bên trái -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-       style="position: absolute; top: 0; left: 0; height: 100%; width: 8px; transform: rotate(90deg); transform-origin: top left; z-index: 1;" />
+  <!-- LED trái -->
+  <div style="writing-mode: vertical-lr; transform: rotate(180deg);">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+         style="height: 600px; width: 8px;" />
+  </div>
 
-  <!-- LED bên phải -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-       style="position: absolute; top: 0; right: 0; height: 100%; width: 8px; transform: rotate(270deg); transform-origin: top right; z-index: 1;" />
-
-  <!-- Nội dung giữa -->
-  <div style="padding: 0 20px;">
-    <!-- Tiêu đề -->
-    <div align="center" style="font-size: 30px; font-weight: bold;">
+  <!-- Nội dung chính -->
+  <div style="width: 100%;">
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+    </p>
+    <div align="center" style="font-size: 30px !important; font-weight: bold;">
       ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
     </div>
-    <!-- Dán bảng stack, badge, icon ở đây -->
+    <!-- Dán nội dung stack/badge ở đây -->
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+    </p>
+    
+  </div>
 
+  <!-- LED phải -->
+  <div style="writing-mode: vertical-lr;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+         style="height: 600px; width: 8px;" />
   </div>
 
 </div>
+
 
 
 
