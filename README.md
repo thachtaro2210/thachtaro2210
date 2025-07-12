@@ -29,6 +29,8 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
 <h2 align="center">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</h2>
 
+![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
