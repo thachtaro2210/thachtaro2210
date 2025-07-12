@@ -3,8 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tong+Thach!;" />
 </div>
 
-# Welcome to My Page! 👋
-Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
+## Welcome to My Page! 👋
+<div>
+    Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
+</div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
