@@ -37,19 +37,15 @@ Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting moder
 
   <!-- Nội dung chính (có LED trên và dưới) -->
   <div style="flex-grow: 1;">
-
     <!-- LED trên -->
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
     </p>
-
     <!-- Tiêu đề -->
     <div align="center" style="font-size: 30px !important; font-weight: bold;">
       ⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️
     </div>
-
     <!-- Nội dung tech stack bạn đã có -->
-
     <!-- LED dưới -->
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
