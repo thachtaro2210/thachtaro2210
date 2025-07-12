@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tong+Thach!;" />
-</h1>
+</div>
 
 # Welcome to My Page! 👋
 Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
