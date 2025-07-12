@@ -5,7 +5,9 @@
 
 # Welcome to My Page! 👋
 Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
