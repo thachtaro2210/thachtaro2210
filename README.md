@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
+
 ## 👨‍💻 About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
@@ -18,7 +18,7 @@
 - 🔭 Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
 - 🌱 Exploring: **DevOps** with **Docker** and **Microservices** design.
 - 📫 Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
 ![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 📫 How to reach me: 
 
