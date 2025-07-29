@@ -2,7 +2,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tong+Thach!;" />
 </div>
-
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
 ## Welcome to My Page! 👋
 <div>
     Hi, I'm Thach Tong, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
@@ -21,7 +21,7 @@
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 📫 How to reach me: 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
+
 [LeetCode](https://leetcode.com/u/thachtaro/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 
