@@ -194,14 +194,19 @@
 
 
 
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center"><a href="https://github.com/thachtaro2210" title="thachtaro2210">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&hide_border=true&bg_color=F5F5F5&text_color=111011&icon_color=00ffff&title_color=333133" 
+    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=F5F5F5&text_color=111011&icon_color=00ffff&title_color=333133" 
     alt="GitHub stats for thachtaro2210" 
   />
 </a></div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachtaro2210&theme=light&hide_border=true&background=F5F5F5&ring=00ffff&fire=00ffff&currStreakLabel=333133" alt="GitHub Streak Stats" />
+</div>
 
 
 
