@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=F5F5F5&title_color=00ffff&text_color=333133&icon_color=00ffff&border_color=e4e2e2&ring_color=00ffff"/>
     
