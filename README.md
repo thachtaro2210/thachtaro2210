@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Contribution](https://raw.githubusercontent.com/thachtaro2210/thachtaro2210/main/profile-night-rainbow.svg)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=midnight-purple"/>
 
