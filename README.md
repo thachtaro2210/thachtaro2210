@@ -132,18 +132,6 @@
 
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align="center"><a href="https://github.com/thachtaro2210" title="thachtaro2210">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=F5F5F5&text_color=111011&icon_color=00ffff&title_color=333133" 
-    alt="GitHub stats for thachtaro2210" 
-  />
-</a></div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachtaro2210&theme=light&hide_border=true&background=F5F5F5&ring=00ffff&fire=00ffff&currStreakLabel=333133" alt="GitHub Streak Stats" />
-</div>
 
 
 
@@ -169,10 +157,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Contribution](https://raw.githubusercontent.com/thachtaro2210/thachtaro2210/main/profile-night-rainbow.svg)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=midnight-purple"/>
 
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=F5F5F5&title_color=00ffff&text_color=333133&icon_color=00ffff&border_color=e4e2e2&ring_color=00ffff"/>
+    
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=default&bg_color=F5F5F5&title_color=00ffff&text_color=333133&border_color=e4e2e2"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachtaro2210&theme=light&hide_border=true&background=F5F5F5&ring=00ffff&fire=00ffff&currStreakLabel=333133" alt="GitHub Streak Stats" />
+</div>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
