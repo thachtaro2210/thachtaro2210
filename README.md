@@ -25,9 +25,6 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thachtaro2210/) 
 
 
-<p align="center">
-  <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/git.gif" alt="giphy" />
-</p>
 
 
 <div align="center" style="font-size: 30px !important; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
