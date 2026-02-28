@@ -18,7 +18,7 @@
 - 🔭 Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
 - 📫 Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thachtaro2210)
 ## 📫 How to reach me: 
 
@@ -33,9 +33,7 @@
 
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
