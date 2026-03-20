@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-[![Thach's GitHub stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210)](https://github.com/thachtaro2210/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=radical)
     
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=default&bg_color=F5F5F5&title_color=00ffff&text_color=333133&border_color=e4e2e2"/>
 </div>
