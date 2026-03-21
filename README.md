@@ -59,57 +59,46 @@
 <table align="center">
   <tr>
     <td align="center" width="140">
-      <img src="./TechStack/spring.svg" alt="SpringBoot" width="65" height="65" />
-      <br />SpringBoot
+      <img src="./TechStack/spring.svg" width="65" /><br />SpringBoot
     </td>
     <td align="center" width="140">
-      <img src="./TechStack/nextjs-icon.svg" alt="NextJS" width="65" height="65" />
-      <br />NextJS
+      <img src="./TechStack/nextjs-icon.svg" width="65" /><br />NextJS
     </td>
     <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br />JavaScript
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br />JavaScript
     </td>
     <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br />TypeScript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br />TypeScript
     </td>
     <td align="center" width="140">
-      <img src="./TechStack/nodejs.svg" alt="NodeJS" width="65" height="65" />
-      <br />NodeJS
+      <img src="./TechStack/nodejs.svg" width="65" /><br />NodeJS
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="140">
-      <img src="./TechStack/tailwind.svg" alt="TailwindCSS" width="65" height="65" />
-      <br />TailwindCSS
+    <td align="center">
+      <img src="./TechStack/tailwind.svg" width="65" /><br />TailwindCSS
     </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br />React
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br />React
     </td>
-  <td align="center" width="140">
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-      <br />Redux
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" /><br />Redux
     </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br />MySQL
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br />MySQL
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="65" height="65" />
-      <br />RESTful API
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" /><br />REST API
     </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br />Docker
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br />Docker
     </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br />AWS
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br />AWS
     </td>
   </tr>
 </table>
