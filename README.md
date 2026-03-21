@@ -7,9 +7,7 @@
 <div>
     Hi, I'm Thach, a Back-End Software Engineer passionate about crafting modern, user-focused web applications.
 </div>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+
 
 ##  About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
@@ -168,6 +166,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=synthwave&hide_border=true" width="38%" />
 </p>
 
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thachtaro2210&theme=aura" alt="Repositories by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thachtaro2210&theme=aura" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thachtaro2210&theme=aura" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thachtaro2210&theme=aura&utcOffset=8" alt="Productive Time" />
+</div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
