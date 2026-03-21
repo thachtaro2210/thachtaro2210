@@ -160,10 +160,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=synthwave" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=donut-vertical&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=synthwave&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=donut-vertical&theme=synthwave&hide_border=true" width="49%" />
 </p>
 
 <h3 align="center">
