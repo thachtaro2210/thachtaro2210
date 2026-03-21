@@ -159,9 +159,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thachtaro2210&theme=aura" alt="Repositories by Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thachtaro2210&theme=aura" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thachtaro2210&theme=aura" alt="GitHub Stats" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thachtaro2210&theme=aura&utcOffset=7" alt="Productive Time" />
 </div>
 <h3 align="center">
