@@ -12,7 +12,7 @@
 ##  About Me
 <img src="https://github.com/thachtaro2210/thachtaro2210/blob/main/illustration.png" min-width="300px" max-width="200px" width="280px" align="right">
 
--  I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, **Node.js**, and **MongoDB**, with a focus on clean architecture and performance.
+-  I specialize in developing robust backend systems with **Java** and **Spring Boot**, alongside building dynamic frontends using **React**, with a focus on clean architecture and performance.
 -  Currently working on: Enhancing enterprise applications with **Spring Boot** and integrating **React** for responsive UIs.
 -  Let’s connect! Check out my projects below or reach me on [GitHub](https://github.com/thachtaro2210).
 
