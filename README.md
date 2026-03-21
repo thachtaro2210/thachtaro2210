@@ -162,7 +162,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=synthwave" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=donut-vertical&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=donut-vertical&theme=synthwave" />
+</p>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
