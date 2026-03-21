@@ -117,9 +117,7 @@
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,wordpress,java,py,nextjs,react,nodejs,express,mongodb,postgres,firebase,styledcomponents,npm,postman,stackoverflow,vscode,replit,vercel,windows&perline=17" alt="Tech stack icons" />
-</p>
+
 
 
 <p align="center">
