@@ -88,10 +88,7 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br />React
     </td>
-    <td align="center" width="140">
-      <img src="./TechStack/nestjs.svg" alt="NestJS" width="65" height="65" />
-      <br />NestJS
-    </td>
+
     <td align="center" width="140">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
       <br />Redux
@@ -117,7 +114,7 @@
   </tr>
 </table>
 
-t chim ưng cái này hơn
+
 
 
 <p align="center">
