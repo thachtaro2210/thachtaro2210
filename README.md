@@ -56,30 +56,68 @@
 
 ##  Tech Stack
 
-<h3 align="center">⚙️ Backend</h3>
 <table align="center">
   <tr>
-    <td align="center"><img src="./TechStack/spring.svg" width="65"/><br/>Spring Boot</td>
-    <td align="center"><img src="./TechStack/nodejs.svg" width="65"/><br/>NodeJS</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65"/><br/>REST API</td>
+    <td align="center" width="140">
+      <img src="./TechStack/spring.svg" alt="SpringBoot" width="65" height="65" />
+      <br />SpringBoot
+    </td>
+    <td align="center" width="140">
+      <img src="./TechStack/nextjs-icon.svg" alt="NextJS" width="65" height="65" />
+      <br />NextJS
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="140">
+      <img src="./TechStack/nodejs.svg" alt="NodeJS" width="65" height="65" />
+      <br />NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="./TechStack/tailwind.svg" alt="TailwindCSS" width="65" height="65" />
+      <br />TailwindCSS
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br />React
+    </td>
+    <td align="center" width="140">
+      <img src="./TechStack/nestjs.svg" alt="NestJS" width="65" height="65" />
+      <br />NestJS
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+      <br />Redux
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br />MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="65" height="65" />
+      <br />RESTful API
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br />Docker
+    </td>
+    <td align="center" width="140">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br />AWS
+    </td>
   </tr>
 </table>
 
-<h3 align="center">💾 Database</h3>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br/>MySQL</td>
-    <td align="center"><img src="./TechStack/mongodb.svg" width="65"/><br/>MongoDB</td>
-  </tr>
-</table>
-
-<h3 align="center">🎨 Frontend</h3>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br/>React</td>
-    <td align="center"><img src="./TechStack/nextjs-icon.svg" width="65"/><br/>NextJS</td>
-  </tr>
-</table>
+t chim ưng cái này hơn
 
 
 <p align="center">
