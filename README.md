@@ -172,7 +172,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thachtaro2210&theme=aura" alt="Repositories by Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thachtaro2210&theme=aura" alt="Most Committed Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thachtaro2210&theme=aura" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thachtaro2210&theme=aura&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thachtaro2210&theme=aura&utcOffset=7" alt="Productive Time" />
 </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
