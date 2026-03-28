@@ -132,9 +132,9 @@
 - Email: thatchjeager@gmail.com
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&theme=gotham&layout=compact"width="40%"/> 
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://github.com/jrohitofficial?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=thachtaro2210&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
