@@ -132,7 +132,8 @@
 - Email: thatchjeager@gmail.com
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=synthwave&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=synthwave&hide_border=true" width="39%" /> </p>
+
+
 
 
 <p align="center">
