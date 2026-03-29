@@ -138,6 +138,8 @@
 
 <p align="center">
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thachtaro2210&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&langs_count=8&theme=blue-green"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=synthwave&hide_border=true" width="39%" />
 </p>
 
