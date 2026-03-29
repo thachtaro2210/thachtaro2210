@@ -137,7 +137,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=synthwave&hide_border=true" width="39%" />
 </p>
 
