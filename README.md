@@ -138,7 +138,7 @@
 
 <p align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=radical)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thachtaro2210)
 
 
 <div align="center">
