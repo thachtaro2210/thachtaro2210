@@ -139,7 +139,7 @@
 <p align="center">
 
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thachtaro2210)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=thachtaro2210&layout=compact)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
