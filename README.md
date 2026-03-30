@@ -138,9 +138,8 @@
 
 <p align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thachtaro2210&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thachtaro2210&layout=compact&theme=tokyonight" width="48%"/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
