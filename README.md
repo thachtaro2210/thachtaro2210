@@ -138,8 +138,10 @@
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thachtaro2210?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thachtaro2210&theme=highcontrast" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thachtaro2210?cardType=level&preferLogin=false" />
+</p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
