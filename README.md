@@ -26,7 +26,7 @@
 
 
 
-<div align="center" style="font-size: 30px !important; font-weight: bold;">⚒️ Tech Stack and Languages - Frameworks - Tools ⚒️</div>
+<div align="center" style="font-size: 30px !important; font-weight: bold;"> Tech Stack and Languages - Frameworks - Tools </div>
 
 
 
