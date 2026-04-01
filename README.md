@@ -139,7 +139,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thachtaro2210&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com/?user=thachtaro2210&theme=default" />
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thachtaro2210?cardType=level&preferLogin=false" />
 </p>
 
