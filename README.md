@@ -138,10 +138,10 @@
 
 <p align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thachtaro2210&theme=default" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thachtaro2210?cardType=level&preferLogin=false" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=thachtaro2210&theme=default" width="48%" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/thachtaro2210?cardType=level&theme=default&background=ffffff&text=000000&preferLogin=false" width="48%" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
