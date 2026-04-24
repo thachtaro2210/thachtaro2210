@@ -133,12 +133,15 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=default" />
+</p>
 
 
 
 <p align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=default)
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
