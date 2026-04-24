@@ -145,7 +145,12 @@
 
 <p align="center">
 
-<a href="https://github.com/thachtaro2210/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=github-readme-stats&theme=buefy" /> </a> <a href="https://github.com/thachtaro2210/anuraghazra.github.io"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=anuraghazra.github.io&theme=buefy" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
