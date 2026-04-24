@@ -133,19 +133,12 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
-<p align="center">
-  <a href="https://github.com/thachtaro2210/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=repo1&theme=buefy" />
-  </a>
-  <a href="https://github.com/thachtaro2210/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thachtaro2210&repo=repo2&theme=buefy" />
-  </a>
-</p>
+
 
 
 <p align="center">
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=thachtaro2210&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachtaro2210&layout=compact&theme=default)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thachtaro2210&theme=aura" alt="GitHub Profile Summary" />
